@@ -1,13 +1,10 @@
 # Love_ek_Pal_Ka_Mobile_Locker
 <h2 align="center"><b>ABout Developer</b></h2>
-<h5>I am KDO from Cyber-D Team. I am a Developer, Programmer, Hacker, Rapper and as well as Student.
+<h5>I am KDO from Cyber-D Team. I am a Developer, Programmer, Hacker, Rapper and as well as Student. I work for Cyber-D and Cyber Space Team. I am in this field from 3 years.
 
 
 
-
-
-
-
+<hr>
 
 <h2>This app is made for eductional &amp; research propose , Developer will not responible of any kind of illgle activitty done by using this app </h2>
 
