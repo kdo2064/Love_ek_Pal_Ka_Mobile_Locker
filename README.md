@@ -18,6 +18,5 @@
 <li><a href="https://instgram.com/cyber_d_kdo">Instagram</a></li>
 <li><a href="https:wa.me/+9779746554757">Whatsapp</a></li>
 <li><a href="https://t.me/kdo_shashank">Telegram</a></li>
-<li><a href="https:wa.me/+9779746554757">Whatsapp</a></li>
 <li><a href="https://t.me/cyberdoffficial">Telegram Group</a></li>
 
